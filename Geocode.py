@@ -10,8 +10,8 @@ from googleplaces import GooglePlaces, types
 import time
 import numpy as np
 
-my_api_key = 'AIzaSyAaXc0c1EB2LGIXtokrmaFVTqherSX_w2I'
-wz_api_key = 'AIzaSyA4ctAYpLK--cuSES1UE-GhZxzpk3IHMgI'
+my_api_key = 
+wz_api_key = 
 google_places = GooglePlaces(wz_api_key)
 
 wb = load_workbook(filename = 'sub_rank_Clean_V01.xlsx')
